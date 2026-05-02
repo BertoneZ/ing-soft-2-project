@@ -1,5 +1,3 @@
-Como Senior QA, realicé el análisis del enunciado "Practica beneficiario.pdf" y detecté las siguientes ambigüedades técnicas y de negocio que deben ser aclaradas para garantizar la calidad del desarrollo[cite: 2]:
-
 ### 1. Ambigüedades en Flujo de Acceso y Navegación
 *   **"Ingresa al buscador, ingresa a la web":** No se especifica qué buscador (interno o externo) ni qué términos de búsqueda activan el acceso a la web.
 *   **"se deberá mostrar el botón o no según las condiciones":** Existe ambigüedad visual. No aclara si el botón debe estar oculto o deshabilitado (en gris) cuando la cuenta no está activa.
