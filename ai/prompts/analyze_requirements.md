@@ -1,0 +1,1 @@
+Actua como Senior QA, analiza el enunciado y detecta las ambigüedades correspondientes, indica que en parte del enunciado se encuentra la ambigüedad (indicalo entre comillas), hacelo en formato de items. 
